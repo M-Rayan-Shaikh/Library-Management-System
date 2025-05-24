@@ -1,4 +1,0 @@
-﻿  PROJECT_CP.cpp
-C:\Users\User\Desktop\PROJECT_CP\PROJECT_CP\PROJECT_CP.cpp(262,6): warning C4101: 'librarian': unreferenced local variable
-C:\Users\User\Desktop\PROJECT_CP\PROJECT_CP\PROJECT_CP.cpp(263,6): warning C4101: 'student': unreferenced local variable
-  PROJECT_CP.vcxproj -> C:\Users\User\Desktop\PROJECT_CP\x64\Debug\PROJECT_CP.exe
